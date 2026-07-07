@@ -1,0 +1,26 @@
+attribute,value,rationale_source,source_url
+Name (persona),Maya Chen,Representative name for persona,
+Age,35–43 (persona: 38),Core Millennial – best converting segment,
+Generation,Core Millennial,Born 1983–1991,
+Gender,Female (primary),Hiking/outdoor footwear searches skew ~60% female UK,
+Location,England / Scotland,"Google Trends: England 100, Scotland 88 – top UK markets",
+Specific areas,"Surrey, Cotswolds, Yorkshire, Peak District, Scottish Highlands",Rural-urban commuter belt with outdoor access,
+Household income,"£42,000–£68,000",ONS ASHE 2023 – core Millennial household bracket,https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023
+Occupation,Professional / Creative sector,Mid-senior career stage,
+Family status,"Partnered, 1–2 children",Household formation and settled lifestyle stage,
+Primary search terms,"waterproof boots, hiking boots women, eco boots UK",Google Trends UK – NOT 'sustainable boots' (index=0),"https://trends.google.com/trends/explore?q=sustainable+boots,hiking+boots,waterproof+boots&geo=GB&date=today+5-y"
+Does NOT search,sustainable boots,Google Trends: 0 relative interest UK 5yr – term too niche,"https://trends.google.com/trends/explore?q=sustainable+boots,hiking+boots,waterproof+boots&geo=GB&date=today+5-y"
+Key purchase trigger,Autumn season (Sep–Nov),Google Trends: waterproof boots searches triple in Oct–Nov,"https://trends.google.com/trends/explore?q=sustainable+boots,hiking+boots,waterproof+boots&geo=GB&date=today+5-y"
+Sustainability intent,70%,Gitnux (2026) – 62% Millennials prefer sustainable brands,https://gitnux.org/sustainable-fashion-industry-statistics/
+Purchasing power index,88/100,ONS 2023 income data – strong disposable income,
+Actual purchase likelihood,78%,HBR value-action gap model applied to income + values data,https://gitnux.org/sustainable-fashion-industry-statistics/
+Primary discovery channel,Google Search,Function-first search then sustainability filters,
+Secondary channel,Instagram,Outdoor lifestyle content and hiking creator community,
+Barrier 1,Premium price,Must justify via cost-per-wear and durability proof,
+Barrier 2,Brand trust (EcoGlam is new),"Needs reviews, certifications, founder transparency",
+Barrier 3,Greenwashing scepticism,165K UK greenwashing searches/mo – claims must be specific,
+Barrier 4,Style concern,"Boots must look fashionable, not purely utilitarian",
+Best headline,'Built for the paths you love',Function first – sustainability is the differentiator,
+Best proof point,Beeswax waterproofing demo,"Specific, visual, verifiable – removes doubt",
+Best CTA,Shop Forest Footstep →,Direct to dedicated product landing page,
+Hashtags,#ForestFootstep #EcoGlam #SlowFashion #SustainableBoots,"Low competition, community reach",
